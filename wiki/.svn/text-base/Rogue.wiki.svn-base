@@ -1,0 +1,24 @@
+#summary Fully-Automated GUI Testing.
+
+
+|| [https://code.google.com/p/fittest/source/browse/#svn%2Ftrunk%2Fother-FITTEST-tools%2Frogue-user-testing src] || [https://drive.google.com/folderview?id=0B1lIbYI9LkEJdWg4VzJXMU45V2s&usp=sharing doc] || [https://drive.google.com/folderview?id=0B1lIbYI9LkEJdWg4VzJXMU45V2s&usp=sharing download] ||
+
+The unpredictable and varied way in which users can interact with systems will be one of the problems that will become increasingly important over the lifetime of the FITTEST project and beyond. Users of these systems may be humans (who are inherently unpredictable) and other automated or semi-automated systems, interacting in ways possibly not envisaged by their designers.
+
+We have created a fully automatic GUI crash testing framework called The Rogue User. The Figure blow presents the basic algorithm that the Rogue User Tool follows to generate erroneous sequences. It uses the operating system's Accessibility API to recognize GUI controls and their properties and enables programmatic interaction with them. It derives sets of possible actions for each state that the GUI is in and automatically selects and executes appropriate ones in order to drive the GUI and eventually crash it. The tool uses a machine learning algorithm called Q-Learning to generate short, fault- effective and
+reproducible crash sequences, which a normal human user would not come up with. The graphic shows the steps that the tool undertakes to generate those sequences. After starting the SUT, it optionally instruments it (e.g. to obtain internal information necessary to guide the search). It proceeds to scan the GUI in order to obtain the state of all control elements on the screen (type, position, enabled / disabled...) from which it generates a hierarchical representation called a widget tree. This tree enables it to derive a set of sensible actions (such as clicks, keystrokes, drag and drop operations,etc.). According to the Rogue User's internal search state, it now selects promising actions (actions that are likely to expose faults) and executes these. Tree generation, action derivation, action selection and execution are repeated until
+the desired sequence length has been reached. Eventually, depending on the criteria used for the tool's fitness function, the generated sequence is rated and the SUT stopped. The sequence fitness is used to learn what actions are promising (e.g. actions that lead to the generation of a sequence that consumed excessive memory, etc.). In the next iteration the tool then uses this information to generate another (more effective) sequence and repeats sequence generation until a certain stopping criteria (e.g. time or a particular amount of sequences) has been met.
+
+https://staq.dsic.upv.es/sbauersfeld/ru.png
+
+
+[http://www.youtube.com/watch?v=ggAFpvSA7OE watch a video]
+
+= Characteristics =
+
+  * Uses the operating system's accessibility API to obtain information about the SUT's state
+  * Uses this information to derive possible actions (Clicks, Drag-Drop-Operations, Keyboard-Input, ...)
+  * Selects and executes actions that maximize the likelihood of crashing the SUT
+  * Operates completely unsupervised, i.e. automatic
+  * Allows replay of erroneous sequences
+  * Allows custom test oracles and action behavior

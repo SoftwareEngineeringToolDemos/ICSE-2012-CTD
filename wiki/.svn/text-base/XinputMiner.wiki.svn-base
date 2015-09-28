@@ -1,0 +1,69 @@
+#summary One-sentence summary of this page.
+
+|| [http://code.google.com/p/fittest/source/browse/#svn%2Ftrunk%2FITE%20Components%20standalone%2FModel%20%20Inference%20and%20Transformer%20tools%2FFSM-based%2FXinputMiner src] || [http://fittest.googlecode.com/svn/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/FSM-based/transformtools/Documentation/Documentation-UserGuide.pdf doc] || [https://drive.google.com/folderview?id=0B1lIbYI9LkEJazN3dFBLS2RtRjg&usp=sharing&tid=0BwFaBuXA-b2vaXVEdU54ZV9zUEE download] ||
+
+= Introduction =
+
+The inferred FSM models consist of abstract states; the events in the model lose concrete information so they can be executable, such as parameters, data types. Moreover, to effectively apply combinatorial testing in the next step, we need to define input classes for each input parameter.
+
+XInputMiner tries to infer:
+  * Concrete mapping information (e.g. executable event, parameters) so that an event of a FSM model can be turned into a corresponding executatale one.
+  * Input classes for each input parameter 
+
+Inputs for the component are the logs and FSM models, output is a Domain Input Specification (DIS) file that contains all the data mention above.
+
+Example of an DIS file:
+{{{
+<?xml version="1.0" encoding="UTF-8"?>
+<domainInputs name="shoppingCart" version="0.1" xmlns="http://www.fbk.eu/xinput"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.fbk.eu/xinput ../xsd/xinput.xsd ">
+	
+	<xinput id="remove_input" events="rem">
+		<atomicParamRef paramRef="itemid" />
+	</xinput>
+
+	<xinput id="empty_input" events="empty"/>
+	
+	<xinput id="add_input" events="add">
+		<compositeParam id="bookdata">
+			<atomicParam id="title">
+				<dataClz base="string" name="fulltitle">
+					<minLength value="3"/>
+					<maxLength value="1024"/>
+				</dataClz>
+			</atomicParam>
+			<atomicParam id="price"> 
+				<dataClz base="double" name="expensive">
+					<minInclusive value="10.0"/>
+				</dataClz>
+				<dataClz base="double" name="cheap">
+					<minInclusive value="0.0"/>
+					<maxExclusive value="10.0"/>
+				</dataClz>
+			</atomicParam>
+			<atomicParam id="date"> 
+				<dataClz base="string" name="date">
+					<pattern value="^(0[1-9]|1[012])[- /.](0[1-9]|[12][0-9]|3[01])[- /.](19|20)\d\d$"/>
+				</dataClz>
+			</atomicParam>
+		</compositeParam>
+		<atomicParam id="itemid" name="itemid">
+			<dataClz base="string" name="itemid">
+				<enumeration value="hat001"/>
+				<enumeration value="dog001"/>
+				<enumeration value="sou001"/>
+				<enumeration value="cha001"/>
+				<enumeration value="str001"/>
+				<enumeration value="qua001"/>
+			</dataClz> 
+		</atomicParam>	
+	</xinput>
+	
+	<event id="add" name="addToCart" webType="button" webEventToFire="onclick" reachedBy="//button[@id='btnAdd']"/>
+	<event id="rem" name="removeFromCart" webType="button" webEventToFire="onclick" reachedBy="//button[@id='btnRemove']"/>
+	<event id="empty" name="emptyCart" webType="button" webEventToFire="onclick" reachedBy="//button[@id='btnEmpty']"/>
+	
+</domainInputs>
+
+}}} 

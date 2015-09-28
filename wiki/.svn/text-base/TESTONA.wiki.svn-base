@@ -1,0 +1,27 @@
+#summary TESTONA Professional, a test design tool.
+
+= TESTONA Professional=
+
+||  [http://www.testona.net/ to get it] ||
+
+TESTONA is a software tool for test design. It implements the Classification Tree Method presented by Grimm and Grochtmann.
+
+The Classification Tree Method is a method for test design, as it is used in different areas of software development. It has been developed by Grimm and Grochtmann in 1993.
+The classification tree method consists of two mayor steps:
+  # Identification of test relevant aspects (so called ''classifications'') and their corresponding values (called ''classes'') as well as
+  # Combination of different classes from all classifications into test cases.
+
+The identification of test relevant aspects usually follows the (functional) specification (e.g. requirements, use cases …) of the system under test. 
+These aspects form the input and output data space of the test object.
+
+The second step of test design then follows the principles of combinatorial test design. 
+
+While the method can be applied using a pen and a paper, the usual way involves the usage of the Classification Tree Editor, a software tool implementing the classification tree method.
+
+(A full overview on the [https://en.wikipedia.org/wiki/Classification_Tree_Method classification tree method] can be found on [https://en.wikipedia.org/wiki/Classification_Tree_Method wikipedia].)
+
+----
+
+[http://www.testona.net/ TESTONA Professional] is a commercial tool. Free evaluation licenses and free licenses for Academia are available upon request. 
+
+A [http://www.testona.net/ free edition] is available, however, with a reduced set of features.

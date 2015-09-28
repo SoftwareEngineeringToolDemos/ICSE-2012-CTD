@@ -1,0 +1,20 @@
+#summary UCL HHSA Hyperheuristic algorithm for CIT
+
+= Learning Combinatorial Interaction Testing Strategies using Hyperheuristic Search =
+
+|| [http://www0.cs.ucl.ac.uk/staff/y.jia/projects/cit_hyperheuristic/downloads/Comb_Linux_64.tar.gz download (Linux 64, tested on ubuntu 12.04) ] || [http://www0.cs.ucl.ac.uk/staff/y.jia/projects/cit_hyperheuristic/downloads/Comb_Mac_OSX_64.tar.gz download (Mac OSX64, tested on OSX 10.8.5)]  ||
+
+Hyperheuristics are a new class of Search Based Software Engineering algorithms, the members of which use dynamic adaptive optimisation to learn optimisation strategies without supervision.
+
+Over two decades of research has gone into the development of bespoke CIT test generation techniques, each of which is tailored and tuned to a specific problem. The tester is therefore presented with many different techniques and implementations from which to choose, each of which has its own special properties. Unfortunately, this choice can be a bewildering one, because an algorithm designed for one CIT instance may perform poorly when applied to another.
+
+Our hyperheuristic algorithm learns the CIT strategy to apply dynamically, as it is executed. This single algorithm can be applied to a wide range of CIT problem instances, regardless of their structure and characteristics. We use online selective hyperheuristics, since we want a solution that can learn to select the best CIT heuristic to apply, unsupervised, as it executes.
+
+The hyperheuristic algorithm takes the set of lower level heuristics as input, and layers the heuristic search into two levels that work together to produce the overall solution. 
+
+ # The outer layer uses a normal metaheuristic search to find solutions directly from the solution space of the problem. 
+ # The inner layer heuristic, searches for the best candidate lower heuristics for the outer layer heuristics in the current problem state. 
+
+As a result, the inner search adaptively identifies and exploits different strategies according to the characteristics of the problems it faces. A full explanation of our algorithm can be found in the UCL technical report  [http://www.cs.ucl.ac.uk/fileadmin/UCL-CS/research/Research_Notes/RN_13_17.pdf RN_13_17].
+
+Our combinatorial interaction testing (CIT) tool is designed as a research prototype and the aim is to apply hyperheuristic algorithms to CIT problems.

@@ -1,0 +1,21 @@
+#summary UML Testing Profile (U2TP).
+
+= Introduction =
+
+The Modelio UML Testing Profile module implements an U2TP extension. The UML Testing Profile (U2TP) is an OMG standard, defined as an extension of the UML language for modeling software tests. 
+The Modelio U2TP module supports software tests modeling. It provides the test designer with dedicated commands and graphics to assist in the specification of test systems.
+The Modelio U2TP module is based on the analysis of the UML Testing Profile specification version 1.0 from 05.07.07. It implements the U2TP extension to UML specification and is developed for the Modelio 2.x open source MDE workbench. To use the profile you need at least:
+
+  * Modelio 2, downloadable from http://modelio.org
+  * the file UTP_x.yy.zz.jmdac, available in one of the UTP bundles which can be downloaded from http://forge.modelio.org/projects/utp/files.
+
+Screenshot:
+
+http://www.modeliosoft.com/images/stories/opensource/u2tpscreen.jpg
+
+= Details =
+
+ 
+  * UTP user manual http://forge.modelio.org/projects/utp-user-manual-english/wiki
+  * Files http://forge.modelio.org/projects/utp/files
+ 

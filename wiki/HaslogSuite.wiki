@@ -1,0 +1,27 @@
+#summary Haslog suite, a set of utilities to process FITTEST-format logs.
+
+= The Haslog Suite =
+
+|| [https://googledrive.com/host/0B1lIbYI9LkEJa2FWR2VXVS01X1k/1.0/source/haslogsuite_v1_source.7z src] || [https://googledrive.com/host/0B1lIbYI9LkEJa2FWR2VXVS01X1k/1.0/docs/haslog/docs/index.html haslog doc] || [https://googledrive.com/host/0B1lIbYI9LkEJa2FWR2VXVS01X1k/1.0/docs/dtrsplit/docs/index.html dtrsplit doc] || [https://googledrive.com/host/0B1lIbYI9LkEJa2FWR2VXVS01X1k/1.0/docs/declmerge/docs/index.html declmerge doc] || [https://googledrive.com/host/0B1lIbYI9LkEJa2FWR2VXVS01X1k/1.0/docs/daikonice/docs/index.html daikonice doc] || [https://googledrive.com/host/0B1lIbYI9LkEJa2FWR2VXVS01X1k/1.0/binaries binaries] ||
+
+
+Haslog suite is a set of command-line tools to process FITTEST logs, e.g. to convert them to XML, to prepare them for specification inference, etc. It consists of the following tools: haslog (yes, it is also the name of one of the tools), declsplit, declmerge, and daikonice.
+
+The FITTEST log format is described the [http://www.cs.uu.nl/research/techreps/repo/CS-2012/2012-014.pdf UU-CS-2012-014] technical report. The format is text-based, well defined and deeply structured (e.g. allowing objects to be serialized into a log), but more compact than e.g. XML.
+
+An example of an entry in a FITTEST log:
+
+{{{
+%<S "O:Person"
+%<P %<{ I =0:ID }%>
+%<{ name="Sponge Bob ":String }%>
+%<{ age=4:int }%>
+%<{ spouse=> }%> 
+%>
+%<S "O:Person"
+  ... // here is the spouse object
+%>
+%>
+}}} 
+
+Haslog can for example compress a FITTEST log, or to convert them to XML to be processed by other tools. It can also do pre-processing and then convert logs to the Daikon format, so that you can use Daikon to infer invariants from them.
