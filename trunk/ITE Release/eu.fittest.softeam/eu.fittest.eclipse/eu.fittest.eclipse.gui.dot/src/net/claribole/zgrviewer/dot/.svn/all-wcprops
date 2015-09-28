@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot
+END
+Shape.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Shape.java
+END
+Colors.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Colors.java
+END
+DOTTreeParser.smap
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTTreeParser.smap
+END
+DOTParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTParser.java
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Rectangle.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Edge.java
+END
+DOTRecordLexer.smap
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTRecordLexer.smap
+END
+DOTLexer.smap
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTLexer.smap
+END
+DOTTreeTransformer.smap
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTTreeTransformer.smap
+END
+DOTTokenTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTTokenTypes.java
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Record.java
+END
+ViewPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/ViewPort.java
+END
+ArrowEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/ArrowEnd.java
+END
+Cluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Cluster.java
+END
+DOTParser.smap
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTParser.smap
+END
+ZgrReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/ZgrReader.java
+END
+BasicNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/BasicNode.java
+END
+SubRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/SubRecord.java
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Point.java
+END
+Spline.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Spline.java
+END
+DOTRecordWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTRecordWalker.java
+END
+CommonNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/CommonNode.java
+END
+Style.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Style.java
+END
+Graph.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Graph.java
+END
+DOTRecordParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTRecordParser.java
+END
+DotUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DotUtils.java
+END
+DOTTreeParserTokenTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTTreeParserTokenTypes.txt
+END
+DOTTreeParserTokenTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTTreeParserTokenTypes.java
+END
+DOTRecordTokenTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTRecordTokenTypes.txt
+END
+DOTRecordWalker.smap
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTRecordWalker.smap
+END
+DOTTokenTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTTokenTypes.txt
+END
+DOTRecordTokenTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTRecordTokenTypes.java
+END
+SubGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/SubGraph.java
+END
+DOTTreeTransformerTokenTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTTreeTransformerTokenTypes.txt
+END
+DOTTreeTransformerTokenTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTTreeTransformerTokenTypes.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Test.java
+END
+DOTRecordParser.smap
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTRecordParser.smap
+END
+DOTTreeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTTreeParser.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/Node.java
+END
+DOTRecordLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTRecordLexer.java
+END
+DOTLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTLexer.java
+END
+DOTTreeTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/dot/DOTTreeTransformer.java
+END

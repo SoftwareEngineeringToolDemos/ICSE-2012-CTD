@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbkflex/src/main/java/net/sourceforge/seleniumflexapi
+END
+AbstractPageDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbkflex/src/main/java/net/sourceforge/seleniumflexapi/AbstractPageDriver.java
+END
+FlexSelenium.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbkflex/src/main/java/net/sourceforge/seleniumflexapi/FlexSelenium.java
+END
+AcceptanceTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbkflex/src/main/java/net/sourceforge/seleniumflexapi/AcceptanceTestBase.java
+END
+DefaultSeleniumFlex.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbkflex/src/main/java/net/sourceforge/seleniumflexapi/DefaultSeleniumFlex.java
+END

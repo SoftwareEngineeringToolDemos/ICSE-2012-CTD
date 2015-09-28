@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/Parameter.java
+END
+ConcreteLogParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/ConcreteLogParser.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/Event.java
+END
+VLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/VLiteral.java
+END
+FunctionParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/FunctionParameter.java
+END
+IAbstractionFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/IAbstractionFunction.java
+END
+VObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/VObject.java
+END
+LogFileAbstracter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/LogFileAbstracter.java
+END
+RegexpMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/RegexpMatcher.java
+END
+VArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/VArray.java
+END
+ConcreteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/ConcreteEvent.java
+END
+Abstractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/Abstractor.java
+END
+ParseEventAbstraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/ParseEventAbstraction.java
+END
+LogFileConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/LogFileConverter.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/Value.java
+END
+AbstractionFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.upvlc/eu.fittest.phplog.eventabstraction/src/main/java/eu/fittest/phplog/eventabstraction/AbstractionFunction.java
+END

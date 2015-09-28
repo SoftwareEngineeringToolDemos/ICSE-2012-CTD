@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/daikonUtils/haskell/declmerge/assemblies
+END
+assemblyLinux32.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/daikonUtils/haskell/declmerge/assemblies/assemblyLinux32.xml
+END
+assemblyLinux64.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/daikonUtils/haskell/declmerge/assemblies/assemblyLinux64.xml
+END
+assemblyMacOs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/daikonUtils/haskell/declmerge/assemblies/assemblyMacOs.xml
+END
+assemblyWin32.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/daikonUtils/haskell/declmerge/assemblies/assemblyWin32.xml
+END

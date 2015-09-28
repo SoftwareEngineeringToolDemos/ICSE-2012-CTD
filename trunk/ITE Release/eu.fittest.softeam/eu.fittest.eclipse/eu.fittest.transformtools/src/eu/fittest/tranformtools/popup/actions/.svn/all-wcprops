@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.transformtools/src/eu/fittest/tranformtools/popup/actions
+END
+CTE2SelenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.transformtools/src/eu/fittest/tranformtools/popup/actions/CTE2SelenAction.java
+END
+BatchCTE2TCAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.transformtools/src/eu/fittest/tranformtools/popup/actions/BatchCTE2TCAction.java
+END
+TraceToFSMAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.transformtools/src/eu/fittest/tranformtools/popup/actions/TraceToFSMAction.java
+END
+Log2FSMAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.transformtools/src/eu/fittest/tranformtools/popup/actions/Log2FSMAction.java
+END
+FSM2XinputAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.transformtools/src/eu/fittest/tranformtools/popup/actions/FSM2XinputAction.java
+END
+FolderContentTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.transformtools/src/eu/fittest/tranformtools/popup/actions/FolderContentTester.java
+END
+FSM2CTEAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.transformtools/src/eu/fittest/tranformtools/popup/actions/FSM2CTEAction.java
+END

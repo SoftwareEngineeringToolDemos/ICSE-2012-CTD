@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.autoabs/src/main/java/eu/fittest/ucl/autoabs/evolve
+END
+Selection.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.autoabs/src/main/java/eu/fittest/ucl/autoabs/evolve/Selection.java
+END
+InferenceGA.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.autoabs/src/main/java/eu/fittest/ucl/autoabs/evolve/InferenceGA.java
+END
+Fitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.autoabs/src/main/java/eu/fittest/ucl/autoabs/evolve/Fitness.java
+END
+Chromosome.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.autoabs/src/main/java/eu/fittest/ucl/autoabs/evolve/Chromosome.java
+END
+Gene.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.autoabs/src/main/java/eu/fittest/ucl/autoabs/evolve/Gene.java
+END
+MultiObjectiveFitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.autoabs/src/main/java/eu/fittest/ucl/autoabs/evolve/MultiObjectiveFitness.java
+END

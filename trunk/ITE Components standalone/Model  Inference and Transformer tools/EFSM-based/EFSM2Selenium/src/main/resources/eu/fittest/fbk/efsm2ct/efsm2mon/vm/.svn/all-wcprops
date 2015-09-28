@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/226/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/EFSM2Selenium/src/main/resources/eu/fittest/fbk/efsm2ct/efsm2mon/vm
+END
+fsm-int.vm
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/226/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/EFSM2Selenium/src/main/resources/eu/fittest/fbk/efsm2ct/efsm2mon/vm/fsm-int.vm
+END
+dot-alias.vm
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/224/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/EFSM2Selenium/src/main/resources/eu/fittest/fbk/efsm2ct/efsm2mon/vm/dot-alias.vm
+END
+arcs-alias.vm
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/224/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/EFSM2Selenium/src/main/resources/eu/fittest/fbk/efsm2ct/efsm2mon/vm/arcs-alias.vm
+END
+gml.vm
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/224/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/EFSM2Selenium/src/main/resources/eu/fittest/fbk/efsm2ct/efsm2mon/vm/gml.vm
+END
+dot.vm
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/224/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/EFSM2Selenium/src/main/resources/eu/fittest/fbk/efsm2ct/efsm2mon/vm/dot.vm
+END
+gml-alias.vm
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/224/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/EFSM2Selenium/src/main/resources/eu/fittest/fbk/efsm2ct/efsm2mon/vm/gml-alias.vm
+END
+dot-fittest.vm
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/224/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/EFSM2Selenium/src/main/resources/eu/fittest/fbk/efsm2ct/efsm2mon/vm/dot-fittest.vm
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/script
+END
+disable_macos_fix_for.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/script/disable_macos_fix_for.sh
+END
+enable_macos_fix_for.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/script/enable_macos_fix_for.sh
+END

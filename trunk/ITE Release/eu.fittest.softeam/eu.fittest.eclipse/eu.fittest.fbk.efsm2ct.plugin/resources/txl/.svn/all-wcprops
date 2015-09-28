@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/resources/txl
+END
+transform_evotest_to_sut.txl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/resources/txl/transform_evotest_to_sut.txl
+END
+java.txl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/resources/txl/java.txl
+END
+additional_methods.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/resources/txl/additional_methods.java
+END
+additional_methods_selenium.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/resources/txl/additional_methods_selenium.java
+END
+transform_evotest_to_selenium.txl
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/resources/txl/transform_evotest_to_selenium.txl
+END
+TestTestFlex.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/resources/txl/TestTestFlex.java
+END
+A.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/resources/txl/A.java
+END
+strlib.txl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/resources/txl/strlib.txl
+END
+java.grm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/resources/txl/java.grm
+END

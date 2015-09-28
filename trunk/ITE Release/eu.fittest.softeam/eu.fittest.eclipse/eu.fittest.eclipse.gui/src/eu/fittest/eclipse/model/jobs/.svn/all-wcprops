@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/model/jobs
+END
+SessionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/model/jobs/SessionType.java
+END
+TestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/model/jobs/TestCase.java
+END
+HUTManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/model/jobs/HUTManager.java
+END
+JobModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/model/jobs/JobModel.java
+END
+TestingSessionJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/model/jobs/TestingSessionJob.java
+END
+JobEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/model/jobs/JobEvent.java
+END
+JobStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/model/jobs/JobStatus.java
+END
+ComponentDeployment.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/model/jobs/ComponentDeployment.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats
+END
+InspectorDescriptionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/InspectorDescriptionSet.java
+END
+VelocityFsmtestDriverGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/VelocityFsmtestDriverGenerator.java
+END
+FsmtestDriverGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/FsmtestDriverGenerator.java
+END
+MutatorDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/MutatorDescriptor.java
+END
+InspectorDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/InspectorDescription.java
+END
+MutatorDescriptionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/MutatorDescriptionSet.java
+END
+EfsmSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/EfsmSerializer.java
+END

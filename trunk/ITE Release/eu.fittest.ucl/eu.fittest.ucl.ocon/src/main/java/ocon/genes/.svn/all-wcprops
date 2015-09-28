@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.ocon/src/main/java/ocon/genes
+END
+IntGene.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.ocon/src/main/java/ocon/genes/IntGene.java
+END
+CollectionGene.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.ocon/src/main/java/ocon/genes/CollectionGene.java
+END
+Gene.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.ocon/src/main/java/ocon/genes/Gene.java
+END
+BooleanGene.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.ucl/eu.fittest.ucl.ocon/src/main/java/ocon/genes/BooleanGene.java
+END

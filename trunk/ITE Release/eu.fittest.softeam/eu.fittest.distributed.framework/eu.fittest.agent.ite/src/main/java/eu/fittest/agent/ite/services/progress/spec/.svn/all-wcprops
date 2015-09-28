@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/progress/spec
+END
+ProgressEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/progress/spec/ProgressEvent.java
+END
+ILocalProgressService.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/progress/spec/ILocalProgressService.java
+END
+IRemoteProgressService.java
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/progress/spec/IRemoteProgressService.java
+END
+IProgressService.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/progress/spec/IProgressService.java
+END
+IProgressServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/progress/spec/IProgressServiceListener.java
+END

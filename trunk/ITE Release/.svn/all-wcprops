@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/393/trunk/ITE%20Release
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/393/trunk/ITE%20Release/version.txt
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/393/trunk/ITE%20Release/build.sh
+END
+setenv.bat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/393/trunk/ITE%20Release/setenv.bat
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/393/trunk/ITE%20Release/pom.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/393/trunk/ITE%20Release/readme.txt
+END

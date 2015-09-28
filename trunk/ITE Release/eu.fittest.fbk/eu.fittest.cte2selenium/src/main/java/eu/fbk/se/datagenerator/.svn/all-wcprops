@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.cte2selenium/src/main/java/eu/fbk/se/datagenerator
+END
+DoubleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.cte2selenium/src/main/java/eu/fbk/se/datagenerator/DoubleGenerator.java
+END
+DateGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.cte2selenium/src/main/java/eu/fbk/se/datagenerator/DateGenerator.java
+END
+IntegerGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.cte2selenium/src/main/java/eu/fbk/se/datagenerator/IntegerGenerator.java
+END
+BooleanGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.cte2selenium/src/main/java/eu/fbk/se/datagenerator/BooleanGenerator.java
+END
+DataGeneratorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.cte2selenium/src/main/java/eu/fbk/se/datagenerator/DataGeneratorFactory.java
+END
+IDataGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.cte2selenium/src/main/java/eu/fbk/se/datagenerator/IDataGenerator.java
+END
+StringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.cte2selenium/src/main/java/eu/fbk/se/datagenerator/StringGenerator.java
+END

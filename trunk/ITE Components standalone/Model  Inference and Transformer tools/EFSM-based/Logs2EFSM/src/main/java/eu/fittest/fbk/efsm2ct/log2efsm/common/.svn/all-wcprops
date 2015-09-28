@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/common
+END
+OldFlexstoreStateMappingRuleset.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/common/OldFlexstoreStateMappingRuleset.java
+END
+StateMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/common/StateMapping.java
+END
+StateMappingRuleset.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/common/StateMappingRuleset.java
+END
+StateMappingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/common/StateMappingRule.java
+END
+FlexstoreV3StateMappingRuleset.java
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/common/FlexstoreV3StateMappingRuleset.java
+END
+PropertiesFileRulesetFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/228/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/EFSM-based/Logs2EFSM/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/common/PropertiesFileRulesetFactory.java
+END

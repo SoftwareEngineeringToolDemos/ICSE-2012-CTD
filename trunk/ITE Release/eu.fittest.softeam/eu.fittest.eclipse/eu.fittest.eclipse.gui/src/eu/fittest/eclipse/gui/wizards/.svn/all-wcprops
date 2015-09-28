@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/gui/wizards
+END
+AbstractSessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/gui/wizards/AbstractSessionManager.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/gui/wizards/messages.properties
+END
+AbstractSessionManagerWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/gui/wizards/AbstractSessionManagerWizard.java
+END
+AbstractSessionWizardPageOne.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/gui/wizards/AbstractSessionWizardPageOne.java
+END
+FITTESTWizardMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui/src/eu/fittest/eclipse/gui/wizards/FITTESTWizardMessages.java
+END

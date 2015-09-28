@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/util
+END
+Validation.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/util/Validation.java
+END
+NetworkUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/util/NetworkUtils.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/util/FileUtils.java
+END
+ITELogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/util/ITELogger.java
+END

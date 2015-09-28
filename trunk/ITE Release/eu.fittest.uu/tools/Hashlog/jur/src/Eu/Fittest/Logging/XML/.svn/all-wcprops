@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/Hashlog/jur/src/Eu/Fittest/Logging/XML
+END
+Event.hs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/Hashlog/jur/src/Eu/Fittest/Logging/XML/Event.hs
+END
+AppEvent.hs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/Hashlog/jur/src/Eu/Fittest/Logging/XML/AppEvent.hs
+END
+LowEvent.hs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/Hashlog/jur/src/Eu/Fittest/Logging/XML/LowEvent.hs
+END
+EventLog.hs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/Hashlog/jur/src/Eu/Fittest/Logging/XML/EventLog.hs
+END
+AppEventLog.hs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/Hashlog/jur/src/Eu/Fittest/Logging/XML/AppEventLog.hs
+END
+Base.hs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/Hashlog/jur/src/Eu/Fittest/Logging/XML/Base.hs
+END
+Value.hs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.uu/tools/Hashlog/jur/src/Eu/Fittest/Logging/XML/Value.hs
+END

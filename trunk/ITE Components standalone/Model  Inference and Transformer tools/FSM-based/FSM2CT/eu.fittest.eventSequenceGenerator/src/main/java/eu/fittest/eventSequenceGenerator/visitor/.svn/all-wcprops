@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/!svn/ver/327/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/FSM-based/FSM2CT/eu.fittest.eventSequenceGenerator/src/main/java/eu/fittest/eventSequenceGenerator/visitor
+END
+BreadthFirstVisit.java
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/!svn/ver/327/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/FSM-based/FSM2CT/eu.fittest.eventSequenceGenerator/src/main/java/eu/fittest/eventSequenceGenerator/visitor/BreadthFirstVisit.java
+END
+GetPathsOfLengthK.java
+K 25
+svn:wc:ra_dav:version-url
+V 232
+/svn/!svn/ver/327/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/FSM-based/FSM2CT/eu.fittest.eventSequenceGenerator/src/main/java/eu/fittest/eventSequenceGenerator/visitor/GetPathsOfLengthK.java
+END
+BreadthFirstVisitWithLoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/svn/!svn/ver/327/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/FSM-based/FSM2CT/eu.fittest.eventSequenceGenerator/src/main/java/eu/fittest/eventSequenceGenerator/visitor/BreadthFirstVisitWithLoop.java
+END
+BreadthFirstVisitWithGlobalLoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 246
+/svn/!svn/ver/327/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/FSM-based/FSM2CT/eu.fittest.eventSequenceGenerator/src/main/java/eu/fittest/eventSequenceGenerator/visitor/BreadthFirstVisitWithGlobalLoop.java
+END

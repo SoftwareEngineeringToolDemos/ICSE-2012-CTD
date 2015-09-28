@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/83/trunk/other-FITTEST-tools/rogue-user-testing/monkey/src/org/fruit/monkey
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/83/trunk/other-FITTEST-tools/rogue-user-testing/monkey/src/org/fruit/monkey/Settings.java
+END
+SettingsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/83/trunk/other-FITTEST-tools/rogue-user-testing/monkey/src/org/fruit/monkey/SettingsDialog.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/83/trunk/other-FITTEST-tools/rogue-user-testing/monkey/src/org/fruit/monkey/Main.java
+END
+ConfigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/83/trunk/other-FITTEST-tools/rogue-user-testing/monkey/src/org/fruit/monkey/ConfigException.java
+END
+ConfigTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/83/trunk/other-FITTEST-tools/rogue-user-testing/monkey/src/org/fruit/monkey/ConfigTags.java
+END
+AbstractProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/83/trunk/other-FITTEST-tools/rogue-user-testing/monkey/src/org/fruit/monkey/AbstractProtocol.java
+END
+DefaultProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/83/trunk/other-FITTEST-tools/rogue-user-testing/monkey/src/org/fruit/monkey/DefaultProtocol.java
+END
+ProtocolEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/83/trunk/other-FITTEST-tools/rogue-user-testing/monkey/src/org/fruit/monkey/ProtocolEditor.java
+END
+SequenceViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/83/trunk/other-FITTEST-tools/rogue-user-testing/monkey/src/org/fruit/monkey/SequenceViewer.java
+END

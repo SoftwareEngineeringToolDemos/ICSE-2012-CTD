@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/218/trunk/ITE%20Components%20standalone/Logging%20and%20Reporting%20Tools/Flash/FlashLogger/src/eu/fittest/Logging/Serialization
+END
+FittestSerializer.as
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/218/trunk/ITE%20Components%20standalone/Logging%20and%20Reporting%20Tools/Flash/FlashLogger/src/eu/fittest/Logging/Serialization/FittestSerializer.as
+END
+Delegates.as
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/218/trunk/ITE%20Components%20standalone/Logging%20and%20Reporting%20Tools/Flash/FlashLogger/src/eu/fittest/Logging/Serialization/Delegates.as
+END
+SomeSerializationDelegates.as
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/218/trunk/ITE%20Components%20standalone/Logging%20and%20Reporting%20Tools/Flash/FlashLogger/src/eu/fittest/Logging/Serialization/SomeSerializationDelegates.as
+END
+SimpleSerializer.as
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/218/trunk/ITE%20Components%20standalone/Logging%20and%20Reporting%20Tools/Flash/FlashLogger/src/eu/fittest/Logging/Serialization/SimpleSerializer.as
+END
+SerializerBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/218/trunk/ITE%20Components%20standalone/Logging%20and%20Reporting%20Tools/Flash/FlashLogger/src/eu/fittest/Logging/Serialization/SerializerBase.as
+END
+Serializable.as
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/218/trunk/ITE%20Components%20standalone/Logging%20and%20Reporting%20Tools/Flash/FlashLogger/src/eu/fittest/Logging/Serialization/Serializable.as
+END
+EventSerializableDelegates.as
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/218/trunk/ITE%20Components%20standalone/Logging%20and%20Reporting%20Tools/Flash/FlashLogger/src/eu/fittest/Logging/Serialization/EventSerializableDelegates.as
+END
+MxUISerializableDelegates.as
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/218/trunk/ITE%20Components%20standalone/Logging%20and%20Reporting%20Tools/Flash/FlashLogger/src/eu/fittest/Logging/Serialization/MxUISerializableDelegates.as
+END
+readme.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/218/trunk/ITE%20Components%20standalone/Logging%20and%20Reporting%20Tools/Flash/FlashLogger/src/eu/fittest/Logging/Serialization/readme.TXT
+END
+Serializer.as
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/218/trunk/ITE%20Components%20standalone/Logging%20and%20Reporting%20Tools/Flash/FlashLogger/src/eu/fittest/Logging/Serialization/Serializer.as
+END

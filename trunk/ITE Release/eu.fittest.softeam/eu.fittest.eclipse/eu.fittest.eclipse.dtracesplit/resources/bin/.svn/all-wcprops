@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.dtracesplit/resources/bin
+END
+dtrsplitWin64.exe
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.dtracesplit/resources/bin/dtrsplitWin64.exe
+END
+dtrsplitLinux
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.dtracesplit/resources/bin/dtrsplitLinux
+END
+dtrsplitMacOs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.dtracesplit/resources/bin/dtrsplitMacOs
+END
+dtrsplitWin32.exe
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.dtracesplit/resources/bin/dtrsplitWin32.exe
+END

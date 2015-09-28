@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete
+END
+CFG.ag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/CFG.ag
+END
+ByteCodeClassInfo.ag
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/ByteCodeClassInfo.ag
+END
+Instr.hs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/Instr.hs
+END
+PrettySpec.ag
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/PrettySpec.ag
+END
+Language.ag
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/Language.ag
+END
+Methods.ag
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/Methods.ag
+END
+InstrBaseLib.hs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/InstrBaseLib.hs
+END
+InstructionStackEffect.ag
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/InstructionStackEffect.ag
+END
+SymInfo.hs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/SymInfo.hs
+END
+CFGAst.ag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/CFGAst.ag
+END
+LanguageAst.ag
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/LanguageAst.ag
+END
+SimpleHash.ag
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/SimpleHash.ag
+END
+TrfToCFG.ag
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/lib/src/obsolete/TrfToCFG.ag
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/registration/spec
+END
+ILocalRegistrationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/registration/spec/ILocalRegistrationService.java
+END
+IRemoteRegistrationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/registration/spec/IRemoteRegistrationService.java
+END
+RegistrationEventKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/registration/spec/RegistrationEventKind.java
+END
+IRegistrationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/registration/spec/IRegistrationService.java
+END
+IRegistrationServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/registration/spec/IRegistrationServiceListener.java
+END
+RegistrationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/registration/spec/RegistrationEvent.java
+END

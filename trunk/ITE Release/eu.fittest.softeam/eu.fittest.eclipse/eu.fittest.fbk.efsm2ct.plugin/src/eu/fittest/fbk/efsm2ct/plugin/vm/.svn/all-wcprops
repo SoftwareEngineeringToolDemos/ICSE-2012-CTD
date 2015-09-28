@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/vm
+END
+sut-driver.vm
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/vm/sut-driver.vm
+END
+mockup-flexstore-java.vm
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/vm/mockup-flexstore-java.vm
+END
+dot-fittest.vm
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/vm/dot-fittest.vm
+END
+dot-fittest-simpl.vm
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/vm/dot-fittest-simpl.vm
+END
+fsm-sing-int.vm
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/vm/fsm-sing-int.vm
+END

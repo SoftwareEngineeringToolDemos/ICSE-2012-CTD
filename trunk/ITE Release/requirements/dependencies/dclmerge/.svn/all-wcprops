@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/dclmerge
+END
+eu.fittest.uu.dclmerge-1.0.1-SNAPSHOT-win32-binaries.zip
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/dclmerge/eu.fittest.uu.dclmerge-1.0.1-SNAPSHOT-win32-binaries.zip
+END
+eu.fittest.uu.dclmerge-1.0.1-SNAPSHOT-macos-binaries.zip
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/dclmerge/eu.fittest.uu.dclmerge-1.0.1-SNAPSHOT-macos-binaries.zip
+END
+eu.fittest.uu.dclmerge-1.0.1-SNAPSHOT-win64-binaries.zip
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/dclmerge/eu.fittest.uu.dclmerge-1.0.1-SNAPSHOT-win64-binaries.zip
+END
+installLocally.bat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/dclmerge/installLocally.bat
+END
+eu.fittest.uu.dclmerge-1.0.1-SNAPSHOT-linux64-binaries.zip
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/dclmerge/eu.fittest.uu.dclmerge-1.0.1-SNAPSHOT-linux64-binaries.zip
+END
+installLocally.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/dclmerge/installLocally.sh
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints
+END
+WhiteSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/WhiteSpace.java
+END
+Pattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/Pattern.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/ObjectFactory.java
+END
+ComplexRestrictionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/ComplexRestrictionType.java
+END
+NoFixedFacet.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/NoFixedFacet.java
+END
+NumFacet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/NumFacet.java
+END
+Facet.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/Facet.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/package-info.java
+END
+ConstraintType.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/ConstraintType.java
+END
+Constraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/Constraints.java
+END
+TotalDigits.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/TotalDigits.java
+END
+OnElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/constraints/OnElementType.java
+END

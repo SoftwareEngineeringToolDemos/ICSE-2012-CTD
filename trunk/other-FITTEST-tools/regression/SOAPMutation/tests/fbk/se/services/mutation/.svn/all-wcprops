@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/SOAPMutation/tests/fbk/se/services/mutation
+END
+RegexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/SOAPMutation/tests/fbk/se/services/mutation/RegexTest.java
+END
+MutatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/SOAPMutation/tests/fbk/se/services/mutation/MutatorTest.java
+END
+ConstraintLoadingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/SOAPMutation/tests/fbk/se/services/mutation/ConstraintLoadingTest.java
+END

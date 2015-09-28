@@ -1,0 +1,16 @@
+Installing Fsm2Ct
+
+* Building
+
+ [[1]] launch mvn package
+
+ Once manve finished, target directory contains .zip tarballs.
+
+* Installing
+
+ [[1]] extract the content of the tarball in your favourite directory
+
+----
+	unzip eu.fittest.fbk.fsm2ct.packaging-1.0.1-bin.zip
+----
+

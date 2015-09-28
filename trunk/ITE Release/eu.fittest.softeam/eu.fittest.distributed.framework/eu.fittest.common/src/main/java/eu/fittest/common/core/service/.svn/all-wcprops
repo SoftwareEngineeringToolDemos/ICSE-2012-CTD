@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service
+END
+AbstractService.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/AbstractService.java
+END
+ILocalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/ILocalService.java
+END
+IRemoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/IRemoteService.java
+END
+IService.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/IService.java
+END
+XMLSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/XMLSocket.java
+END
+IConfigurableService.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/IConfigurableService.java
+END
+IMessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/IMessageHandler.java
+END
+ILocalServiceRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/ILocalServiceRegistry.java
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/Connection.java
+END
+IServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/IServiceListener.java
+END
+AbstractLocalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/AbstractLocalService.java
+END
+AbstractRemoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/AbstractRemoteService.java
+END
+IServiceRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/IServiceRegistry.java
+END
+ServiceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/service/ServiceEvent.java
+END

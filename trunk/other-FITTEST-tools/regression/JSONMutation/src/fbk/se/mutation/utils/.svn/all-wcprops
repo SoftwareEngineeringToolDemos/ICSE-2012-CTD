@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/utils
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/utils/FileUtils.java
+END
+Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/utils/Generator.java
+END
+JsonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/utils/JsonUtils.java
+END
+PathException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/173/trunk/other-FITTEST-tools/regression/JSONMutation/src/fbk/se/mutation/utils/PathException.java
+END

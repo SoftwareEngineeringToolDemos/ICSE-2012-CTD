@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/xinputminer_1.0.1
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/xinputminer_1.0.1/pom.xml
+END
+installLocally.bat
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/xinputminer_1.0.1/installLocally.bat
+END
+eu.fittest.xinputminer-1.0.1-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/xinputminer_1.0.1/eu.fittest.xinputminer-1.0.1-SNAPSHOT.jar
+END
+installLocally.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/xinputminer_1.0.1/installLocally.sh
+END

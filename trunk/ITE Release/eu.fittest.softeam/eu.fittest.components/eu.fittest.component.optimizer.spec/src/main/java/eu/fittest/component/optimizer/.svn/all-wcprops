@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.components/eu.fittest.component.optimizer.spec/src/main/java/eu/fittest/component/optimizer
+END
+SearchAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.components/eu.fittest.component.optimizer.spec/src/main/java/eu/fittest/component/optimizer/SearchAlgorithm.java
+END
+IOptimizerProvidedServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.components/eu.fittest.component.optimizer.spec/src/main/java/eu/fittest/component/optimizer/IOptimizerProvidedServices.java
+END
+IOptimizerRequiredServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.components/eu.fittest.component.optimizer.spec/src/main/java/eu/fittest/component/optimizer/IOptimizerRequiredServices.java
+END

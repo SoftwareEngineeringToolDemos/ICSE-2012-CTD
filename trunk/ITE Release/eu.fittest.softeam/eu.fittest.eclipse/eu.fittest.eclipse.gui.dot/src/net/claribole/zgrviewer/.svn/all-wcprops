@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer
+END
+LinkSliderCalc.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/LinkSliderCalc.java
+END
+BroughtElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/BroughtElement.java
+END
+PrintWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/PrintWindow.java
+END
+ZGRViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/ZGRViewer.java
+END
+LogicalStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/LogicalStructure.java
+END
+ToolPalette.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/ToolPalette.java
+END
+LElem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/LElem.java
+END
+ZGRGlassPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/ZGRGlassPane.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/Utils.java
+END
+NavPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/NavPanel.java
+END
+ZGRPanelViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/ZGRPanelViewer.java
+END
+TextViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/TextViewer.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/Messages.java
+END
+BaseEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/BaseEventHandler.java
+END
+LGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/LGraph.java
+END
+ZgrvEvtHdlr.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/ZgrvEvtHdlr.java
+END
+DOTManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/DOTManager.java
+END
+RadarEvtHdlr.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/RadarEvtHdlr.java
+END
+PrefWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/PrefWindow.java
+END
+CallBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/CallBox.java
+END
+ZGRApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/ZGRApplication.java
+END
+PeriodicActionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/PeriodicActionManager.java
+END
+GraphicsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/GraphicsManager.java
+END
+Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/Plugin.java
+END
+ConfigManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/ConfigManager.java
+END
+LNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/LNode.java
+END
+ZgrAppletEvtHdlr.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/ZgrAppletEvtHdlr.java
+END
+GeometryEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/GeometryEditor.java
+END
+GVLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/GVLoader.java
+END
+AppletUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/AppletUtils.java
+END
+ZGRApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/ZGRApplet.java
+END
+PNGExportWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/PNGExportWindow.java
+END
+SearchBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/SearchBox.java
+END
+LEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/LEdge.java
+END
+WebBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.gui.dot/src/net/claribole/zgrviewer/WebBrowser.java
+END

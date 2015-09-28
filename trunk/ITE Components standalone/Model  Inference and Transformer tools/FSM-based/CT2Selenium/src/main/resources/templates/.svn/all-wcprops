@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/325/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/FSM-based/CT2Selenium/src/main/resources/templates
+END
+junit.wdriver.stg
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/325/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/FSM-based/CT2Selenium/src/main/resources/templates/junit.wdriver.stg
+END
+junit4.wdriver.stg
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/325/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/FSM-based/CT2Selenium/src/main/resources/templates/junit4.wdriver.stg
+END
+junit.flexdriver.stg
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/325/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/FSM-based/CT2Selenium/src/main/resources/templates/junit.flexdriver.stg
+END
+flex.testconfig.stg
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/325/trunk/ITE%20Components%20standalone/Model%20%20Inference%20and%20Transformer%20tools/FSM-based/CT2Selenium/src/main/resources/templates/flex.testconfig.stg
+END

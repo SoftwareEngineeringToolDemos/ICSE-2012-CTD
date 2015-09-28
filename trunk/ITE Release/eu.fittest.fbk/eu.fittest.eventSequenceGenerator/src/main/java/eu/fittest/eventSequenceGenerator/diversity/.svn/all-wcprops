@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.eventSequenceGenerator/src/main/java/eu/fittest/eventSequenceGenerator/diversity
+END
+SA.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.eventSequenceGenerator/src/main/java/eu/fittest/eventSequenceGenerator/diversity/SA.java
+END
+TypeOfFitnessFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.eventSequenceGenerator/src/main/java/eu/fittest/eventSequenceGenerator/diversity/TypeOfFitnessFunction.java
+END
+SA_onlyLastEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.eventSequenceGenerator/src/main/java/eu/fittest/eventSequenceGenerator/diversity/SA_onlyLastEvent.java
+END
+Fitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.eventSequenceGenerator/src/main/java/eu/fittest/eventSequenceGenerator/diversity/Fitness.java
+END

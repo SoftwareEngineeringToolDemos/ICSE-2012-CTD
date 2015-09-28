@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5
+END
+framework.env
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/framework.env
+END
+authoringsupport.env
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/authoringsupport.env
+END
+automation_agent.env
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/automation_agent.env
+END
+advancedgrids.env
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/advancedgrids.env
+END
+airspark_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/airspark_rb.env
+END
+playerglobal_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/playerglobal_rb.env
+END
+mobilecomponents_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/mobilecomponents_rb.env
+END
+qtp.env
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/qtp.env
+END
+textLayout_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/textLayout_rb.env
+END
+charts_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/charts_rb.env
+END
+rpc_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/rpc_rb.env
+END
+mx_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/mx_rb.env
+END
+airframework_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/airframework_rb.env
+END
+automation_airspark.env
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/automation_airspark.env
+END
+playerglobal.env
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/playerglobal.env
+END
+mobilecomponents.env
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/mobilecomponents.env
+END
+flash-integration.env
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/flash-integration.env
+END
+automation.env
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/automation.env
+END
+spark.env
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/spark.env
+END
+advancedgrids_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/advancedgrids_rb.env
+END
+automation_agent_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/automation_agent_rb.env
+END
+qtp_air_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/qtp_air_rb.env
+END
+automation_flashflexkit.env
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/automation_flashflexkit.env
+END
+aircore.env
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/aircore.env
+END
+airframework.env
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/airframework.env
+END
+airglobal.env
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/airglobal.env
+END
+qtp_air.env
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/qtp_air.env
+END
+flash-integration_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/flash-integration_rb.env
+END
+spark_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/spark_rb.env
+END
+automation_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/automation_rb.env
+END
+osmf.env
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/osmf.env
+END
+servicemonitor.env
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/servicemonitor.env
+END
+automation_air.env
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/automation_air.env
+END
+airspark.env
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/airspark.env
+END
+automation_spark.env
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/automation_spark.env
+END
+framework_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/framework_rb.env
+END
+textLayout.env
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/textLayout.env
+END
+charts.env
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/charts.env
+END
+rpc.env
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/rpc.env
+END
+mx.env
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/mx.env
+END
+applicationupdater_ui.env
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/applicationupdater_ui.env
+END
+automation_dmv.env
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/automation_dmv.env
+END
+spark_dmv.env
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/spark_dmv.env
+END
+osmf_rb.env
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/osmf_rb.env
+END
+core.env
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/core.env
+END
+applicationupdater.env
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/applicationupdater.env
+END
+sparkskins.env
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/175/trunk/ITE%20Components%20standalone/Instrumenter%20Tools/abci/env/sdk-4.5/sparkskins.env
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/iteagent_1.0.1
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/iteagent_1.0.1/pom.xml
+END
+installLocally.bat
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/iteagent_1.0.1/installLocally.bat
+END
+eu.fittest.agent.ite-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/iteagent_1.0.1/eu.fittest.agent.ite-1.0.1.jar
+END
+installLocally.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/iteagent_1.0.1/installLocally.sh
+END

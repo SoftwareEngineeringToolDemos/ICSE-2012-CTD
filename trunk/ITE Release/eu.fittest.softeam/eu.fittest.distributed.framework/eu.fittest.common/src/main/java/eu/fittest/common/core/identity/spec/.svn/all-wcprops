@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/identity/spec
+END
+ILocalIdentityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/identity/spec/ILocalIdentityService.java
+END
+FITTESTEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/identity/spec/FITTESTEntity.java
+END
+FITTESTAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/identity/spec/FITTESTAgent.java
+END
+IIdentityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/identity/spec/IIdentityService.java
+END
+FITTESTITE.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/identity/spec/FITTESTITE.java
+END
+FITTESTComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/identity/spec/FITTESTComponent.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.selenium/resources/bin
+END
+selenium-java.jar
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.selenium/resources/bin/selenium-java.jar
+END
+selenium-remote-driver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.selenium/resources/bin/selenium-remote-driver.jar
+END
+selenium-chrome-driver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.selenium/resources/bin/selenium-chrome-driver.jar
+END
+selenium-ie-driver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.selenium/resources/bin/selenium-ie-driver.jar
+END
+selenium-android-driver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.selenium/resources/bin/selenium-android-driver.jar
+END
+selenium-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.selenium/resources/bin/selenium-api.jar
+END
+selenium-firefox-driver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.selenium/resources/bin/selenium-firefox-driver.jar
+END
+selenium-iphone-driver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.selenium/resources/bin/selenium-iphone-driver.jar
+END
+selenium-support.jar
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.selenium/resources/bin/selenium-support.jar
+END
+selenium-htmlunit-driver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.selenium/resources/bin/selenium-htmlunit-driver.jar
+END

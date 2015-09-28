@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/220/trunk/other-FITTEST-tools/trt/src/eu/fittest/logging/trtransf/classAnalysis
+END
+JdtProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/220/trunk/other-FITTEST-tools/trt/src/eu/fittest/logging/trtransf/classAnalysis/JdtProject.java
+END
+FinalResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/220/trunk/other-FITTEST-tools/trt/src/eu/fittest/logging/trtransf/classAnalysis/FinalResult.java
+END
+PositionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/220/trunk/other-FITTEST-tools/trt/src/eu/fittest/logging/trtransf/classAnalysis/PositionMapper.java
+END
+NumberGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/220/trunk/other-FITTEST-tools/trt/src/eu/fittest/logging/trtransf/classAnalysis/NumberGenerator.java
+END
+SignatureUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/220/trunk/other-FITTEST-tools/trt/src/eu/fittest/logging/trtransf/classAnalysis/SignatureUtils.java
+END
+AnalysisUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/220/trunk/other-FITTEST-tools/trt/src/eu/fittest/logging/trtransf/classAnalysis/AnalysisUtils.java
+END
+MethodMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/220/trunk/other-FITTEST-tools/trt/src/eu/fittest/logging/trtransf/classAnalysis/MethodMapper.java
+END
+ExceptionTypeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/220/trunk/other-FITTEST-tools/trt/src/eu/fittest/logging/trtransf/classAnalysis/ExceptionTypeMapper.java
+END
+BitGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/220/trunk/other-FITTEST-tools/trt/src/eu/fittest/logging/trtransf/classAnalysis/BitGenerator.java
+END
+LogRelevance.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/220/trunk/other-FITTEST-tools/trt/src/eu/fittest/logging/trtransf/classAnalysis/LogRelevance.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/services/compression/spec
+END
+ICompressionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/services/compression/spec/ICompressionService.java
+END
+ILocalCompressionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/services/compression/spec/ILocalCompressionService.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.lopi/resources/bin
+END
+lopiLinux
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.lopi/resources/bin/lopiLinux
+END
+lopiWin32.exe
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.lopi/resources/bin/lopiWin32.exe
+END
+lopiMacOs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.lopi/resources/bin/lopiMacOs
+END
+lopiWin64.exe
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.eclipse.lopi/resources/bin/lopiWin64.exe
+END

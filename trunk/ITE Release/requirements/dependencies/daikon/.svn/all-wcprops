@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/daikon
+END
+installLocally.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/daikon/installLocally.sh
+END
+daikon.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/daikon/daikon.jar
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/daikon/pom.xml
+END
+installLocally.bat
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/393/trunk/ITE%20Release/requirements/dependencies/daikon/installLocally.bat
+END

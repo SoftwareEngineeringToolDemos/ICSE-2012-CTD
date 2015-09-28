@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/agentcommand/spec
+END
+CommandEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/agentcommand/spec/CommandEvent.java
+END
+ILocalAgentCommandService.java
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/agentcommand/spec/ILocalAgentCommandService.java
+END
+IRemoteAgentCommandService.java
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/agentcommand/spec/IRemoteAgentCommandService.java
+END
+IAgentCommandService.java
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.agent.ite/src/main/java/eu/fittest/agent/ite/services/agentcommand/spec/IAgentCommandService.java
+END

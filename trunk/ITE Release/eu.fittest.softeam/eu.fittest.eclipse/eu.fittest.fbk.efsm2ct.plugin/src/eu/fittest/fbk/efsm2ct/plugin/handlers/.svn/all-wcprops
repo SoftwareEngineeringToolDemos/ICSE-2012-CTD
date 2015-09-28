@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/handlers
+END
+Efsm2CtAbstractHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/handlers/Efsm2CtAbstractHandler.java
+END
+RunEvosuiteAndAdaptTestsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/handlers/RunEvosuiteAndAdaptTestsHandler.java
+END
+EvosuiteRunHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/handlers/EvosuiteRunHandler.java
+END
+AllInOneGenerationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/handlers/AllInOneGenerationHandler.java
+END
+AdaptEvosuiteTestsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/handlers/AdaptEvosuiteTestsHandler.java
+END
+Logs2EFSMHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/handlers/Logs2EFSMHandler.java
+END
+InitHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/handlers/InitHandler.java
+END
+EFSM2MonitorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.eclipse/eu.fittest.fbk.efsm2ct.plugin/src/eu/fittest/fbk/efsm2ct/plugin/handlers/EFSM2MonitorHandler.java
+END

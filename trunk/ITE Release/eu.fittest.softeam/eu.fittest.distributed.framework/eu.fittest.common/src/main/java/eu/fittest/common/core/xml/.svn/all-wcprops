@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml
+END
+KeepAlive.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/KeepAlive.java
+END
+RequestProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/RequestProperties.java
+END
+RegisterComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/RegisterComponent.java
+END
+StartSerializationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/StartSerializationResponse.java
+END
+TestCaseStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/TestCaseStatus.java
+END
+ExecuteResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/ExecuteResponse.java
+END
+StopSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/StopSerialization.java
+END
+Stop.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Stop.java
+END
+HUTEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/HUTEnvironment.java
+END
+Kill.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Kill.java
+END
+TestCaseVerdict.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/TestCaseVerdict.java
+END
+UploadResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/UploadResource.java
+END
+Deregister.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Deregister.java
+END
+Initialize.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Initialize.java
+END
+Delete.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Delete.java
+END
+RegisteredComponents.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/RegisteredComponents.java
+END
+Progress.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Progress.java
+END
+Download.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Download.java
+END
+PolicyFileRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/PolicyFileRequest.java
+END
+PropertiesResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/PropertiesResponse.java
+END
+DeployComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/DeployComponent.java
+END
+Upload.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Upload.java
+END
+Register.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Register.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Message.java
+END
+Terminate.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Terminate.java
+END
+ResourceAvailable.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/ResourceAvailable.java
+END
+StartSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/StartSerialization.java
+END
+Start.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Start.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/ObjectFactory.java
+END
+UserDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/UserDialog.java
+END
+RegisterAgentReponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/RegisterAgentReponse.java
+END
+CrossDomainPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/CrossDomainPolicy.java
+END
+Execute.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/Execute.java
+END
+ExecutedTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/ExecutedTestCase.java
+END
+HUTType.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/HUTType.java
+END
+RegisterResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/RegisterResponse.java
+END
+RegisterAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.distributed.framework/eu.fittest.common/src/main/java/eu/fittest/common/core/xml/RegisterAgent.java
+END

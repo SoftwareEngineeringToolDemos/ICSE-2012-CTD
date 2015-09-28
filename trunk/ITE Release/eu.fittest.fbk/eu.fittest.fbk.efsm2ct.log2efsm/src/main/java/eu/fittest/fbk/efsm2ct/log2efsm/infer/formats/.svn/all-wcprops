@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbk.efsm2ct.log2efsm/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats
+END
+MutatorDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbk.efsm2ct.log2efsm/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/MutatorDescriptor.java
+END
+InspectorDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbk.efsm2ct.log2efsm/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/InspectorDescription.java
+END
+MutatorDescriptionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbk.efsm2ct.log2efsm/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/MutatorDescriptionSet.java
+END
+EfsmSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbk.efsm2ct.log2efsm/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/EfsmSerializer.java
+END
+InspectorDescriptionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbk.efsm2ct.log2efsm/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/InspectorDescriptionSet.java
+END
+VelocityFsmtestDriverGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbk.efsm2ct.log2efsm/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/VelocityFsmtestDriverGenerator.java
+END
+FsmtestDriverGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/393/trunk/ITE%20Release/eu.fittest.fbk/eu.fittest.fbk.efsm2ct.log2efsm/src/main/java/eu/fittest/fbk/efsm2ct/log2efsm/infer/formats/FsmtestDriverGenerator.java
+END
