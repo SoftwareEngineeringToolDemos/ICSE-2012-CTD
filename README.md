@@ -2,13 +2,13 @@
 
 This repository contains information related to the tool CTD presented in ICSE, 2012. The tool was originally presented in the paper [Interactive refinement of combinatorial test plans](http://dl.acm.org/citation.cfm?id=2337421).
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
 • [The Official Project Page]( http://researcher.watson.ibm.com/researcher/view_group.php?id=1871)
 
 In this repository, for CTD you will find:
 
-* :x: Source code (not available)
+* :x: Source code (not available: Tool is IBM proprietary and we do not have the Source code availab;e)
 
 * :x: The original tool (not available: Tool is IBM proprietary and we do not have permission to upload the binary)
 
