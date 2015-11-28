@@ -10,7 +10,7 @@ In this repository, for CTD you will find:
 
 * :x: Source code (not available)
 
-* :x: The original tool (not available)
+* :x: The original tool (not available: Tool is IBM proprietary and we do not have permission to upload the binary)
 
 This repository was constructed by [Nitish Limaye](https://github.com/nplimaye) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 
