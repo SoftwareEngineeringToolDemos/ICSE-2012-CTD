@@ -14,5 +14,5 @@ In this repository, for CTD you will find:
 
 This repository was constructed by [Nitish Limaye](https://github.com/nplimaye) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 
-Thanks to [Itai Segall]( https://www.bell-labs.com/usr/itai.segalland [Rachel Tzoref-Brill]( http://researcher.watson.ibm.com/researcher/view_person_pubs.php?person=il-RACHELT&t=1)for their help in establishing this repository.
+Thanks to [Itai Segall]( https://www.bell-labs.com/usr/itai.segall) and [Rachel Tzoref-Brill]( http://researcher.watson.ibm.com/researcher/view_person_pubs.php?person=il-RACHELT&t=1)for their help in establishing this repository.
 
