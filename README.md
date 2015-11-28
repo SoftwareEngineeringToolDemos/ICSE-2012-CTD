@@ -4,7 +4,7 @@ This repository contains information related to the tool CTD presented in ICSE, 
 
 This repository is not the original repository for this tool. Here are some links to the original project:
 
-• [The Official Project Page]( https://code.google.com/archive/p/fittest/)
+• [The Official Project Page]( http://researcher.watson.ibm.com/researcher/view_group.php?id=1871)
 
 In this repository, for CTD you will find:
 
