@@ -1,3 +1,0 @@
-﻿|| [http://code.google.com/p/fittest/source/browse/#svn%2Ftrunk%2FITE%20Components%20standalone%2FModel%20%20Inference%20and%20Transformer%20tools%2FEFSM-based%2FLogs2EFSM src] || [https://drive.google.com/folderview?id=0B7MhSggBoW95Ni1GY0FaYjNfM1U&usp=sharing doc] || [https://drive.google.com/folderview?id=0B7MhSggBoW95Ni1GY0FaYjNfM1U&usp=sharing download] ||
-
-Log2EFSM is a component for the inference of EFSM models from state-full program execution traces. We use state-based abstraction to get abstract states and infer EFSM consisting of such states and the event (transitions) that trigger the transition among states. 

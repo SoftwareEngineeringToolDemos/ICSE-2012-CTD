@@ -1,89 +1,0 @@
-10
-
-dir
-396
-http://fittest.googlecode.com/svn/trunk/ITE%20Release/eu.fittest.softeam/eu.fittest.components
-http://fittest.googlecode.com/svn
-
-
-
-2014-02-10T12:12:10.621196Z
-393
-urko.rueda
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ac1ce02c-73a6-9d54-f306-3bdc1d0c215f
-
-eu.fittest.component.contest
-dir
-
-pom.xml
-file
-
-
-
-
-2015-08-20T21:24:04.365847Z
-441350f94a2b747bfc1c66d1e961b0d5
-2014-02-10T12:12:10.621196Z
-393
-urko.rueda
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1980
-
-eu.fittest.component.optimizer
-dir
-
-eu.fittest.component.appdescription
-dir
-
-eu.fittest.component.appdescription.ite.services
-dir
-
-eu.fittest.component.phplogger
-dir
-
-eu.fittest.component.common
-dir
-
-eu.fittest.component.junit
-dir
-
-eu.fittest.component.optimizer.spec
-dir
-
-eu.fittest.component.junit.ite.services
-dir
-

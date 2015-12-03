@@ -1,7 +1,0 @@
-#summary One-sentence summary of this page.
-
-|| [http://code.google.com/p/fittest/source/browse/#svn%2Ftrunk%2FITE%20Components%20standalone%2FModel%20%20Inference%20and%20Transformer%20tools%2FFSM-based%2FLogs2FSM src] || [https://drive.google.com/folderview?id=0B1lIbYI9LkEJWWs2QnRjZkJqZlE&usp=sharing&tid=0BwFaBuXA-b2vaXVEdU54ZV9zUEE doc] || [https://drive.google.com/folderview?id=0B1lIbYI9LkEJWWs2QnRjZkJqZlE&usp=sharing&tid=0BwFaBuXA-b2vaXVEdU54ZV9zUEE download] ||
-
-= Introduction =
-
-Log2FSM is a component for the inference of FSM model from both state-full logs and state-less logs. For the former one, we use state-based abstraction to get abstract states and infer FSM consisting of such states and the event (transitions) that trigger the transition among states. For the later, we employ sequence-based model inference: input are sequences of events and k-tail is applied to minimize and generalize the output FSMs.
