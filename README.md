@@ -8,9 +8,8 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for CTD you will find:
 
-* :x: Source code (not available: Tool is IBM proprietary and we do not have the Source code availab;e)
-
-* :x: The original tool (not available: Tool is IBM proprietary and we do not have permission to upload the binary)
+* :x: Source code (not available)
+* :x: The original tool (not available)
 
 This repository was constructed by [Nitish Limaye](https://github.com/nplimaye) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 
