@@ -10,6 +10,7 @@ In this repository, for CTD you will find:
 
 * :x: Source code (not available)
 * :x: The original tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Nitish Limaye](https://github.com/nplimaye) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
 
